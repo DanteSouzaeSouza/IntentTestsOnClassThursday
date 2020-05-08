@@ -1,0 +1,2 @@
+rootProject.name='IntentTestsOnClassThursday'
+include ':app'
